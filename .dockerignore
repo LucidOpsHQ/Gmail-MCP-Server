@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+coverage
+.git
+.env
+.env.*
+!.env.example
+*.log
+gcp-oauth.keys.json
+credentials.json
+tokens.json
+.calendar-server-credentials.json
+.gcp-oauth.keys.json
